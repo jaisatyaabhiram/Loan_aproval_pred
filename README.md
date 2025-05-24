@@ -59,7 +59,7 @@ To build a binary classification model that automates the loan approval process 
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib, Seaborn
-- Jupyter Notebook / Google Colab
+- Google Colab
 
 ---
 
@@ -68,13 +68,5 @@ To build a binary classification model that automates the loan approval process 
 - Converted categorical variables using label encoding and one-hot encoding
 - Scaled numeric features using StandardScaler
 - Filled missing values with median strategy
-- Replaced '3+' in `Dependents` with numeric 3
+- Replaced '3+' in `Dependents` with numeric 4
 
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/loan-approval-classifier.git
-   cd loan-approval-classifier
